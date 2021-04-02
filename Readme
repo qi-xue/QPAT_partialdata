@@ -1,0 +1,14 @@
+This is the Matlab source code for our paper "Hölder stability of quantitative photoacoustic tomography based on partial data" by Faouzi TRIKI and Qi XUE.
+The code is far from optimal. Actually we repeat the same code in each example folder.
+You can go into the corresponding folder and run the "main" file therein to regenerate figures presented in our paper.
+If you want to know the detail implementation, just search into the corresponding file.
+
+You have all authority to use, modify and spread the code for research use only.
+For any commercial use, you need to contact us.
+We'll be grateful if you could cite our paper if you use our code in your research.
+We're not responsible for any consequence induced by this set of code.
+We'll be very glad to hear any of your comments, but we cannot guarantee that you will receive our support.s
+
+Qi XUE
+April 2 2021
+xueqi.bhlt@gmail.com
